@@ -35,7 +35,7 @@ public class QuickSort {
         // subsequent recursive case chunks since swap always ends up being defined as correct value
         // at correct index for ordering of the array
     } // returns an index
-    // and also mutates the array
+    // and also mutates the array.
 
 
     private static void quickSortHelper(int[] array, int left, int right) { // left and right are
